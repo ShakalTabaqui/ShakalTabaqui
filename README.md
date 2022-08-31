@@ -4,7 +4,7 @@
 
 - 🌱 I studied at **Elbrus Bootcamp**
 
-- 👨‍💻 All of my projects are available [in pinned repositories](in pinned repositories)
+- 👨‍💻 All of my projects are available in pinned repositories
 
 - 💬 Ask me about **Machine Learning or Computer Vision**
 
