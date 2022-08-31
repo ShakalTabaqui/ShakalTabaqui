@@ -2,7 +2,7 @@
   <h1 align="center">Hi 👋, I'm Vitalii</h1>
 <h3 align="center">Data Scientist</h3>
 
-- 🌱 I studied at **Elbrus Bootcamp**
+- ⛰ I studied at **Elbrus Bootcamp**
 
 - 👨‍💻 All of my projects are available in pinned repositories
 
