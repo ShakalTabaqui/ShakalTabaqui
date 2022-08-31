@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vitalii</h1>
 <h3 align="center">Data Scientist</h3>
 
-- 👨‍💻 All of my projects are available in [pinned repositories](pinned repositories)
+- 👨‍💻 All of my projects are available in repositories [https://github.com/ShakalTabaqui?tab=repositories](https://github.com/ShakalTabaqui?tab=repositories)
 
 - 💬 Ask me about **Machine Learning or Computer Vision**
 
