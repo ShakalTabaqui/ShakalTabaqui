@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ShakalTabaqui  🌚
-- 👀 I’m interested in Python 🐍
-- 🌱 I’m currently learning in Elbrus bootcamp 🏔
-- 📫 How to reach me t.me/shaqalTabaque  📬 
+- 👋 Hi, I’m Data scientist Vitaliy 🌚
+- 👀 I’m interested in DS,ML,NN,CV  🐍
+- 📫 How to reach me https://t.me/V_Andreev_DS  📬 or v.andreev.ds@gmail.com 
 
 
 # Python
