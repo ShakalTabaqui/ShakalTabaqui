@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available in **pinned repositories**
 
-- 💬 Ask me about **Machine Learning or Computer Vision**
+- 💬 Ask me about **ML/CV/NLP**
 
 - 📫 How to reach me **v.andreev.ds@gmail.com**
 
