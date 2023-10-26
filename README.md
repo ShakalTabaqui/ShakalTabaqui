@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available in **pinned repositories**
 
-- 📫 How to reach me **v.andreev.ds@gmail.com**
+- 📫 How to reach me **t.me/V_Andreev_DS**
 
 - ⚡ Fun fact **Skydived 6 times 🌀**
 
