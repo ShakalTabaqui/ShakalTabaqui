@@ -1,6 +1,6 @@
   
   <h1 align="center">Hi 👋, I'm Vitalii</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">ML Developer at HR prime</h3>
 
 - ⛰ I studied at **Elbrus Bootcamp**
 
