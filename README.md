@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available in **pinned repositories**
 
-- 📫 How to reach me? text me in **[Telegram](t.me/V_Andreev_DS)**
+- 📫 How to reach me? text me in **Telegram**
 
 - ⚡ Fun fact **Skydived 6 times 🌀**
 
