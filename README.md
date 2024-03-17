@@ -4,7 +4,7 @@
 
 - ⛰ I studied at **Elbrus Bootcamp**
 
-- 👨‍💻 All of my projects are available in **pinned repositories**
+- 👨‍💻 I work at HR Prime
 
 - 📫 How to reach me? text me in **Telegram**
 
